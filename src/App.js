@@ -362,11 +362,7 @@ export default function BirthdayLoveSite() {
     </div>
 
     <div className="bg-white rounded-2xl p-4 shadow-lg flex justify-center">
-      <img
-        src="/11.jpg"
-        alt="Us"
-        className="rounded-xl w-auto h-auto max-w-full"
-      />
+     <img src="/birthday-site/11.jpg" alt="pic"  className="rounded-xl w-auto h-auto max-w-full"/>
     </div>
 
     <p className="text-center text-gray-600 mt-6 italic">
